@@ -1,11 +1,11 @@
-# Project-4
-## Airbnb Analysis
+## Project-4
+# Airbnb Analysis
 
-# Introduction
+## Introduction
 
 The Airbnb Data Analysis and Visualization project is a comprehensive data exploration and presentation effort. It involves data collection, preprocessing, ETL work, and the creation of an interactive Streamlit user interface. The project aims to provide insights and make Airbnb data more accessible and understandable.
 
-# Key Technologies and Skills
+## Key Technologies and Skills
 
   1. Python
   2. Pandas
@@ -15,16 +15,16 @@ The Airbnb Data Analysis and Visualization project is a comprehensive data explo
   6. Plotly
   7. PowerBI
     
-# Installation
+## Installation
 
-To run this project, you need to install the following packages:
-pip install pandas
-pip install pymongo
-pip install psycopg2
-pip install streamlit
-pip install plotly
-
-# Features
+    To run this project, you need to install the following packages:
+    pip install pandas
+    pip install pymongo
+    pip install psycopg2
+    pip install streamlit
+    pip install plotly
+    
+## Features
 
   * Data Collection: Gathered Airbnb data from various sources, including MongoDB.
   * Data Preprocessing: Cleaned and prepared the data for analysis.
@@ -33,7 +33,7 @@ pip install plotly
   * Interactive Streamlit UI: Developed a user-friendly interface for data exploration and presentation.
   * PowerBI Dashboard : Interactive eye-catching dashboard with awesome filter
     
-# Methods
+## Methods
 
   * Data Collection: Web scraping, API access, database queries.
   * Data Preprocessing: Data cleaning, handling missing values, feature engineering.
@@ -41,7 +41,7 @@ pip install plotly
   * EDA: Visualization with Matplotlib, Seaborn, and Plotly.
   * Streamlit UI: Streamlit library for building interactive web applications.
     
-# Results
+## Results
 
   *  The project provides a user-friendly interface for exploring Airbnb data.
   *  Insights and trends in the Airbnb market are presented through interactive charts and visualizations.
