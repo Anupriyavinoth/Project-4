@@ -47,4 +47,4 @@ The Airbnb Data Analysis and Visualization project is a comprehensive data explo
   *  Insights and trends in the Airbnb market are presented through interactive charts and visualizations.
   *  Data is cleaned, organized, and ready for further analysis.
 
-🌐 LinkedIn: 
+🌐 LinkedIn: https://www.linkedin.com/feed/update/urn:li:activity:7152942072793075713/
